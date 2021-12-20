@@ -146,10 +146,6 @@ void thucHienChuongTrinh()
 		cout << endl;
 		system("pause");
 	} while (chon >= 1 && chon <= 3);
-	
-	
-
-	
 }
 void menu()
 {
